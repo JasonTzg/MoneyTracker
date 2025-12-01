@@ -43,14 +43,22 @@
 
 <h2>Screenshots</h2>
 
+<table>
+<tr>
+<td align="center">
 <h3>Home Page</h3>
 <img src="screenshots/home.jpg" alt="Home Page" width="300"/>
-
+</td>
+<td align="center">
 <h3>Expenses & Pie Chart</h3>
 <img src="screenshots/expenses.jpg" alt="Expenses" width="300"/>
-
+</td>
+<td align="center">
 <h3>Settings Dialog</h3>
 <img src="screenshots/settings.jpg" alt="Settings" width="300"/>
+</td>
+</tr>
+</table>
 
 <h2>Getting Started</h2>
 
